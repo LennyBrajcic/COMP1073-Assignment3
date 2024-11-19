@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: linear-gradient(to bottom, #87cefa, #f0f8ff);
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: #333;
+    margin-top: 20px;
+}
+form {
+    margin: 20px auto;
+}
+input, button {
+    font-size: 1rem;
+    padding: 10px;
+    margin: 5px;
+}
+#weather-results {
+    margin-top: 20px;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    display: inline-block;
+}
